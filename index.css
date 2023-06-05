@@ -20,3 +20,12 @@ a:hover{
     border-radius: 10%;
     color: green;
 }
+img{
+    margin-top: 50px;
+}
+.pic-one{
+filter: blur(5px);
+}
+.pic-two{
+filter: invert(100%);
+}
